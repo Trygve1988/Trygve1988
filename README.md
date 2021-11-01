@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trygve1988
+- 👋 Hi, I’m Trygve Johannessen
 - 👀 Java, PHP, SQL, JavaScript
 - 🌱 Kotlin+Andrioid, Algoritms and datastructures
 - 💞️ I’m looking to collaborate on ...
